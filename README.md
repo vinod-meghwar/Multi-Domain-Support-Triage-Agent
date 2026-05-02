@@ -1,5 +1,7 @@
 # 🤖 Multi-Domain Support Triage Agent
 
+![Demo](demo.png)
+
 A terminal-based AI support triage agent built for the **HackerRank Orchestrate Hackathon**. The agent reads support tickets and intelligently decides whether to respond automatically or escalate to a human — across three different company ecosystems.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
