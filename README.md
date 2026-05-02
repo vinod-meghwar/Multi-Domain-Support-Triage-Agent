@@ -64,7 +64,7 @@ project/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/multi-domain-support-triage-agent.git
+git clone https://github.com/vinod-meghwar/multi-domain-support-triage-agent.git
 cd multi-domain-support-triage-agent
 ```
 
